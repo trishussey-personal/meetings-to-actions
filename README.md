@@ -1,4 +1,4 @@
-# Meetings plugin
+# Meetings to Actions
 
 Skills for turning a raw meeting transcript into usable project assets. By Tris Hussey (https://www.trishussey.com).
 
@@ -19,8 +19,8 @@ Every skill uses only the transcript as its source. Missing owners are marked **
 From GitHub:
 
 ```
-/plugin marketplace add <github-user>/meetings-plugin
-/plugin install meetings@trishussey-meetings
+/plugin marketplace add trishussey-personal/meetings-to-actions
+/plugin install meetings-to-actions@trishussey-meetings
 ```
 
 Locally, from a clone of this repo:

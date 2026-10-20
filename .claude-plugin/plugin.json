@@ -1,9 +1,19 @@
 {
-  "name": "meetings",
+  "name": "meetings-to-actions",
   "version": "1.0.0",
   "description": "Turn meeting transcripts into summaries, action items, decision logs, follow-up emails, reports, agendas, and consultative proposals.",
-  "author": { "name": "Tris Hussey", "url": "https://www.trishussey.com" },
+  "author": {
+    "name": "Tris Hussey",
+    "url": "https://www.trishussey.com"
+  },
   "homepage": "https://www.trishussey.com",
-  "license": "Copyright © 2026 Tris Hussey",
-  "keywords": ["meetings", "transcripts", "action-items", "agenda", "proposal"]
+  "repository": "https://github.com/trishussey-personal/meetings-to-actions",
+  "license": "MIT",
+  "keywords": [
+    "meetings",
+    "transcripts",
+    "action-items",
+    "agenda",
+    "proposal"
+  ]
 }

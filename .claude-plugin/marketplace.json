@@ -5,11 +5,11 @@
     "url": "https://www.trishussey.com"
   },
   "metadata": {
-    "description": "Tris Hussey's meetings plugin: turn meeting transcripts into summaries, action items, decision logs, follow-up emails, reports, agendas, and consultative proposals."
+    "description": "Tris Hussey's meetings-to-actions plugin: turn meeting transcripts into summaries, action items, decision logs, follow-up emails, reports, agendas, and consultative proposals."
   },
   "plugins": [
     {
-      "name": "meetings",
+      "name": "meetings-to-actions",
       "source": "./",
       "description": "Turn meeting transcripts into summaries, action items, decision logs, follow-up emails, reports, agendas, and consultative proposals."
     }

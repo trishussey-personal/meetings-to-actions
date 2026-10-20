@@ -4,7 +4,7 @@ Project-level instructions for Claude Code, loaded at the start of every session
 
 ## Workspace map
 
-A Claude Code plugin (`meetings`, v1.0.0) that turns meeting transcripts into assets: summaries, action items, decision logs, reports and follow-up emails, agendas, and consultative proposals. Pure Markdown, with no build step or dependencies.
+A Claude Code plugin (`meetings-to-actions`, v1.0.0, MIT licensed) that turns meeting transcripts into assets: summaries, action items, decision logs, reports and follow-up emails, agendas, and consultative proposals. Pure Markdown, with no build step or dependencies.
 
 - `.claude-plugin/plugin.json`: plugin manifest (name, version, description).
 - `.claude-plugin/marketplace.json`: the single-plugin marketplace `trishussey-meetings` (source `./`).
