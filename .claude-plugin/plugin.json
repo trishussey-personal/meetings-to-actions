@@ -1,0 +1,9 @@
+{
+  "name": "meetings",
+  "version": "1.0.0",
+  "description": "Turn meeting transcripts into summaries, action items, decision logs, follow-up emails, reports, agendas, and consultative proposals.",
+  "author": { "name": "Tris Hussey", "url": "https://www.trishussey.com" },
+  "homepage": "https://www.trishussey.com",
+  "license": "Copyright © 2026 Tris Hussey",
+  "keywords": ["meetings", "transcripts", "action-items", "agenda", "proposal"]
+}
