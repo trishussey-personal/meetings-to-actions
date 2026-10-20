@@ -1,6 +1,12 @@
 {
   "name": "trishussey-meetings",
-  "owner": { "name": "Tris Hussey", "url": "https://www.trishussey.com" },
+  "owner": {
+    "name": "Tris Hussey",
+    "url": "https://www.trishussey.com"
+  },
+  "metadata": {
+    "description": "Tris Hussey's meetings plugin: turn meeting transcripts into summaries, action items, decision logs, follow-up emails, reports, agendas, and consultative proposals."
+  },
   "plugins": [
     {
       "name": "meetings",

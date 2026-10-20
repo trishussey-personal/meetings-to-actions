@@ -12,7 +12,7 @@ Skills for turning a raw meeting transcript into usable project assets. By Tris 
 | `consultant-proposal` | Discovery call → diagnosis → consultative proposal email |
 | `meetings-manager` | Runs the full workflow phase by phase, pausing for review |
 
-Every skill uses only the transcript as its source. Missing owners are marked **Unassigned**, missing deadlines **TBD**.
+Every skill uses only the transcript as its source. Missing owners are marked **Unassigned**, missing deadlines **TBD**. `consultant-proposal` goes further on purpose: it adds clearly labeled inferences (unspoken needs) and its own recommendations (solution pillars, pricing framing).
 
 ## Install
 
