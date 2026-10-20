@@ -1,1 +1,21 @@
 .DS_Store
+Thumbs.db
+
+# secrets
+.env
+.env.*
+!.env.example
+
+# generated work — keep the folders, ignore the contents
+active/*
+!active/.gitkeep
+!active/.tmp/
+active/.tmp/*
+!active/.tmp/.gitkeep
+
+# editor
+.vscode/
+.idea/
+
+# claude local
+.claude/settings.local.json
